@@ -1,16 +1,20 @@
 # すごくなりたいがくせいぐるーぷ（SGG）について
 
-### ドメインについて
+すごくなりたいがくせいぐるーぷ(SGG)の[ルール](./GENERAL_RULES.md)　と [Code of Conduct](./CODE_OF_CONDUCT.md)　を必ずお読みください。
+
+## メンバーが使用できるもの
+
+### ドメイン
 
 SGGでは`sugokunaritai.dev`というドメインを取得しているため、SGGメンバーでサービスをリリースする際は`sugokunaritai.dev`のサブドメインを使用できます。
 使いたい方は`@しんぶんぶん`に連絡してください。
 
-## QiitaのOrganizationについて
+## QiitaのOrganization
 
 SGGではQiitaでOrganizationを作ってみんなで記事を投稿しています。結構頻繁に週間ランキングに載ったりします。
 入りたい方は[SlackのQiitaチャンネル](#qiita)で申し出てください。
 
-## Slackについて
+## Slack
 
 ### はじめての方へ
 
