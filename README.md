@@ -1,6 +1,6 @@
 # すごくなりたいがくせいぐるーぷ（SGG）について
 
-すごくなりたいがくせいぐるーぷ(SGG)の[ルール](./GENERAL_RULES.md)　と [Code of Conduct](./CODE_OF_CONDUCT.md)　を必ずお読みください。
+すごくなりたいがくせいぐるーぷ（SGG）の[ルール](./GENERAL_RULES.md)　と [Code of Conduct](./CODE_OF_CONDUCT.md)　を必ずお読みください。
 
 ## メンバーが使用できるもの
 
