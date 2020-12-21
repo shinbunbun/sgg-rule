@@ -92,7 +92,7 @@ SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装�
 
 #### #ssi
 
-SSI(Self Sovereign Identity)について話す場所。DIDやVCに関する話もするので「何言ってんだこいつ」と思った方は軽く仕様書でも読んできてください。
+[SSI(Self Sovereign Identity)](https://sovrin.org/faq/what-is-self-sovereign-identity/)について話す場所。[DID](https://www.w3.org/TR/did-core/)や[VC](https://www.w3.org/TR/vc-data-model/)についての話がメインなので、一緒に論文を読みましょう！
 
 ### 新規チャンネル作成について
 
