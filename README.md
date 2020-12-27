@@ -94,6 +94,10 @@ SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装�
 
 [SSI(Self Sovereign Identity)](https://sovrin.org/faq/what-is-self-sovereign-identity/)について話す場所。[DID](https://www.w3.org/TR/did-core/)や[VC](https://www.w3.org/TR/vc-data-model/)についての話がメインなので、一緒に論文を読みましょう！
 
+#### #youtube
+
+[SGGチャンネル](https://www.youtube.com/channel/UChVaX0bWn3W-X53FxQoxLBw)の運営方針や活動について興味ある人が議論していく場所。
+
 ### 新規チャンネル作成について
 
 新規チャンネル作成は自由です。どんどん新たな分野を開拓してください。
@@ -107,4 +111,4 @@ SGG公式サイト実装・開発に関する議論の場所。Nuxt.jsで実装�
 
 作成2020年5月9日
 
-更新2020年10月21日
+更新2020年12月27日
